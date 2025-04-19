@@ -1,0 +1,30 @@
+# Node modules and dependencies
+node_modules
+npm-debug.log
+
+# Next.js build outputs
+.next
+out
+
+# Git related
+.git
+.gitignore
+
+# Development environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage
